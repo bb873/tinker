@@ -2,7 +2,7 @@
 
 Paste everything below the line into Claude Code (opened in this repo) with Opus selected as the main model (`/model opus`). The main session plays the orchestrator. The worker agents in `.claude/agents/` run on Sonnet or Haiku automatically.
 
-Before you run it, fill in `health/PROFILE.md`. The quality of the output depends on it more than anything else.
+Before you run it, copy `health/PROFILE.template.md` to `health/PROFILE.md` and fill it in. That file is gitignored. The quality of the output depends on it more than anything else.
 
 ---
 

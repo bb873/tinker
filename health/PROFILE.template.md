@@ -1,4 +1,6 @@
-# Health Profile (fill in before running PROMPT.md)
+# Health Profile Template
+
+Copy this file to `health/PROFILE.md` and fill it in. `PROFILE.md` is gitignored so your data never gets pushed.
 
 Agents read this file first. Fill in what you know. Leave blanks as "unknown". Keep it out of public repos.
 
