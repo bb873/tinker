@@ -4,3 +4,6 @@ health/research/
 health/PLAN.md
 health/SYNTHESIS.md
 health/REPORT*.md
+
+# Python bytecode
+__pycache__/
