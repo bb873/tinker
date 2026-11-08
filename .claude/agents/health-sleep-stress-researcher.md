@@ -1,7 +1,7 @@
 ---
 name: health-sleep-stress-researcher
 description: Research worker for sleep, stress, PTSD-informed nervous system regulation, energy, and fatigue in lupus. Use when the health-orchestrator assigns a sleep, stress, or energy brief.
-tools: WebSearch, WebFetch, Read, Write
+tools: WebSearch, WebFetch, Read, Write, Bash
 model: sonnet
 effort: high
 ---

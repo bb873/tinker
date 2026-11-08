@@ -1,7 +1,7 @@
 ---
 name: health-nutrition-researcher
 description: Research worker for diet and nutrition protocols that are safe for lupus nephritis (kidney-aware). Use when the health-orchestrator assigns a nutrition research brief.
-tools: WebSearch, WebFetch, Read, Write
+tools: WebSearch, WebFetch, Read, Write, Bash
 model: sonnet
 effort: high
 ---

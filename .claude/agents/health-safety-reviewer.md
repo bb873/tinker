@@ -1,7 +1,7 @@
 ---
 name: health-safety-reviewer
 description: Red-team reviewer that checks every proposed health recommendation against lupus nephritis, kidney function, immunosuppression, medication interactions, and PTSD. Use after all research workers finish and before the final report is written.
-tools: Read, Write, WebSearch, WebFetch
+tools: Read, Write, WebSearch, WebFetch, Bash
 model: sonnet
 effort: high
 ---

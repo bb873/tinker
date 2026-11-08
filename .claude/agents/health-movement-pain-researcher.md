@@ -1,7 +1,7 @@
 ---
 name: health-movement-pain-researcher
 description: Research worker for exercise, mobility, posture, and non-drug pain relief for mid (thoracic) back pain in a person with lupus nephritis and fatigue. Use when the health-orchestrator assigns a movement or pain brief.
-tools: WebSearch, WebFetch, Read, Write
+tools: WebSearch, WebFetch, Read, Write, Bash
 model: sonnet
 effort: high
 ---
